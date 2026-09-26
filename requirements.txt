@@ -1,0 +1,7 @@
+torch
+torchvision
+rasterio
+numpy
+pandas
+matplotlib
+jupyter
