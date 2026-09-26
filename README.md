@@ -61,8 +61,7 @@ submission. See the notebook's final cells for the export/compression pipeline.
 ## Pretrained weights
 
 The trained checkpoint (`best_model.pth`, ~98MB, from the 5-region training run) isn't committed to
-this repo — it's just under GitHub's 100MB file limit but too large to track sensibly in normal git
-history. Download it from the **[Releases](../../releases)** page instead of the repo tree.
+this repo — download it from the [latest release](https://github.com/Muminul-Hoque/inria-building-segmentation/releases/latest).
 
 ## Repo structure
 
